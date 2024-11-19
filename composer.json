@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+
+  "config": {
+    "optimize-autoloader": true
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
